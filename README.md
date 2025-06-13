@@ -2,7 +2,7 @@
 
 # ⭐️ Camp Starfish ⭐️
 
-Welcome to the official repository for the **Camp Starfish Photo & Scheduling App**, developed by **Hack4Impact-UMD**! 🎉
+Welcome to the official repository for the **Camp Starfish Photo & Scheduling App**! 🎉
 
 This repository contains everything you need code, documentation, and setup guides to effectively contribute to the Camp Starfish app. Follow the setup guide below to get started quickly. Feel free to reach out to the team if you have any questions!
 
@@ -111,16 +111,6 @@ camp-starfish/
 │── tailwind.config.ts
 │── tsconfig.json
 ```
-
----
-
-## 📞 Team Contacts
-
-| Name                 | Role                | Contact                          |
-|----------------------|---------------------|----------------------------------|
-| **Nitin Kanchinadam**| Tech Lead           | nitin.kanchinadam@gmail.com      |
-| **Benjamin Enwesi**  | Tech Lead           | benwesi@terpmail.umd.edu         |
-
 
 ---
 
